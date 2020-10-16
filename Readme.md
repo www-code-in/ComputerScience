@@ -31,7 +31,7 @@ At CS.CODE.IN, for the equivalent replacement of a traditional 4 years degree pr
 The CS Program offers an engaging blend of interactive live coding sessions, with industry experts, real-world projects, and pair programming.
 
 <p align="center">
-  <img  src="assets/about.jpeg">
+  <img  src="assets/routemap.jpeg">
 </p>
 <br/>
 
@@ -113,7 +113,7 @@ Students from all phases of learning are welcome to apply for admission to CODE.
   On demand any time Mentor support during Lab
 
 <p align="center">
-  <img  src="./assets/1edit.jpg">
+  <img  src="./assets/highlights.jpg">
 </p>
 
 <br/>

@@ -132,7 +132,7 @@ Students from all phases of learning are welcome to apply for admission to CODE.
 <td align="center"><img src="https://avatars2.githubusercontent.com/u/55588897?s=460&u=8348deabd41594b44a001ff400b28055e134db53&v=4" width="100px;" alt=""/><br /><sub><b>Mansoor</b></sub><br/><br/><a target="_blank" href="https://twitter.com/syedmansoor_ali"><img height="20" src="./icon/twitter-squared.png" ></a>&nbsp;&nbsp;
 <a target="_blank" href="https://github.com/mansoor-17"><img height="20" src="./icon/github.png"></a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/1mansoor"><img height="20" src="./icon/linkedin.png"></a></td>
-    <td align="center"><img src="./assets/akhil.jpeg" width="100px;" alt=""/><br /><sub><b>Akhil</b></sub><br /><br/><a target="_blank" href="https://twitter.com/iakhilteja"><img height="20" src="./icon/twitter-squared.png" ></a>&nbsp;&nbsp;
+    <td align="center"><img src="https://avatars3.githubusercontent.com/u/59990328?s=400&u=9be6a41f7768eadaccd844ee4ce82e5d7038d0b2&v=4" width="100px;" alt=""/><br /><sub><b>Akhil</b></sub><br /><br/><a target="_blank" href="https://twitter.com/iakhilteja"><img height="20" src="./icon/twitter-squared.png" ></a>&nbsp;&nbsp;
 <a target="_blank" href="https://github.com/iakhilteja"><img height="20" src="./icon/github.png"></a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/iakhilteja"><img height="20" src="./icon/linkedin.png"></a></td>
     

@@ -1,4 +1,4 @@
-# [![header](./assets/main-logo.jpeg)](https://cs.code.in)
+# [![header](./assets/mainLogo.png)](https://cs.code.in)
 
 <p align='center'>
 <a target="_blank" href="https://www.facebook.com/www.code.in"><img src="./icon/facebook.png"></a>&nbsp;&nbsp;
